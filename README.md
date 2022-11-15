@@ -241,4 +241,4 @@ weight = 2
 languageName = "Tiếng Việt"
 ```
 
-# Cre: Sư Huynh Minh Lê, Sư Huynh Thanh Hiệp
+# Cre: Sư Huynh Minh Lê, Sư Huynh Thanh Hiệp.
